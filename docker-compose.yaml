@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+
+  cwl:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cwl
+    container_name: cwl

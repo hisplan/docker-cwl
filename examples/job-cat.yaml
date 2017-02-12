@@ -1,0 +1,3 @@
+textfile:
+  class: File
+  path: hello.txt
