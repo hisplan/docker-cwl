@@ -1,0 +1,3 @@
+wordlist:
+  class: File
+  path: wordlist.txt
